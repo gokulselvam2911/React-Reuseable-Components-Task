@@ -1,0 +1,33 @@
+.full-width {
+    width: 100vw;
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar {
+    width: 100vw;
+    max-width: 100%;
+    min-height: 80px;
+  }
+  
+  .footer {
+    width: 100vw;
+    max-width: 100%;
+    min-height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .text {
+    padding-top: 50px;
+  }
+  
+  .navbar-brand{
+    padding-left: 70px;
+  }
+  .sup{
+    padding-right: 70px;
+  }
